@@ -9,4 +9,4 @@ has the follwing: <br />
   tables.json : The schema structure without cell values <br />
   dev_gold.sql <br />
 <br />
-If anyone want to get the implementation code of the models please contact sa247216@ucf.edu
+If anyone want to get the implementation code of the models please contact sasmohaimeed@gmail.com
